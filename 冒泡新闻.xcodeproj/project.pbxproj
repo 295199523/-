@@ -786,7 +786,7 @@
 				GCC_PREFIX_HEADER = "$(SRCROOT)/冒泡新闻/Supporting Files/MP_News.pch";
 				INFOPLIST_FILE = "/Users/joe/Desktop/冒泡新闻/冒泡新闻/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Joe.com.aasdqwd;
+				PRODUCT_BUNDLE_IDENTIFIER = Joe.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -800,7 +800,7 @@
 				GCC_PREFIX_HEADER = "$(SRCROOT)/冒泡新闻/Supporting Files/MP_News.pch";
 				INFOPLIST_FILE = "/Users/joe/Desktop/冒泡新闻/冒泡新闻/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Joe.com.aasdqwd;
+				PRODUCT_BUNDLE_IDENTIFIER = Joe.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
