@@ -1,10 +1,4 @@
-//
-//  F_CoustomTableViewCell.h
-//  冒泡新闻
-//
-//  Created by JOE on 16/3/5.
-//  Copyright © 2016年 泡泡. All rights reserved.
-//
+
 
 #import <UIKit/UIKit.h>
 
